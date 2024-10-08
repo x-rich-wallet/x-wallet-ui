@@ -9,3 +9,7 @@ Smooth multi-chain experience
 
 ## About Security
 Pre-sign check for Security:
+
+## Connecting X-Wallet Using Wagmi
+Wagmi (opens new window)is a popular React Hooks library for Ethereum. Here's how to use Wagmi to connect to x-wallet:
+First, install the necessary dependencies:
